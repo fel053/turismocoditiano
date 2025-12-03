@@ -60,10 +60,3 @@ Probablemente se portaría tan mal como nosotros.
 
 Uso académico, creativo y 100% libre de responsabilidad
 ante fenómenos atmosféricos reales.
-
----
-
-## 🚀 GitHub Pages
-
-Este repositorio puede publicarse como página web.  
-Revisa las instrucciones más abajo.
