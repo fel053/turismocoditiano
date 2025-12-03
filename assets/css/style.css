@@ -1,0 +1,7 @@
+ .descripcion {
+     display: none;
+     /* Oculta la descripción por defecto */
+     margin-top: 10px;
+     padding-left: 15px;
+     border-left: 3px solid #007bff;
+ }
